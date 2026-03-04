@@ -51,6 +51,10 @@ I strictly avoided the "clunky template" look.
 A premium SaaS product must be completely device-agnostic. 
 * **The Logic:** I utilized Tailwind's mobile-first utility classes (`sm:`, `md:`) to ensure the layout, grid structures, and padding scale perfectly down to the narrowest screens (like an iPhone SE). The sticky navigation bar intelligently condenses its layout on mobile devices by hiding non-essential text while retaining intuitive icons. Furthermore, I stripped out the default Next.js boilerplate and engineered a mathematical, custom-built SVG favicon (`icon.svg`) to give the browser tab a unified, premium brand identity.
 
+### 6. Technical SEO & Social Media Optimization
+A product isn't complete until it's ready to be shared.
+* **The Logic:** I utilized the Next.js 15 Metadata API to inject dynamic Open Graph (OG) tags, Twitter cards, and targeted keywords directly into the server-side layout. By configuring absolute URLs and custom social preview images (`og-image.png`), any StenoxLinks URL shared on platforms like LinkedIn, Discord, or Twitter will automatically generate a premium, large-format visual card. Furthermore, the reliance on server components ensures instant Largest Contentful Paint (LCP) and zero Cumulative Layout Shift (CLS), perfectly optimizing Core Web Vitals.
+
 ---
 
 ## 📚 What I Learned

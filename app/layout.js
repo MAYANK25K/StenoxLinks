@@ -7,7 +7,7 @@ export const metadata = {
   description: "Transform your long, cumbersome URLs into clean, brandable links instantly. Engineered for speed, security, and simplicity.",
   keywords: ["URL shortener", "custom links", "link management", "Next.js", "SaaS", "open source"],
   authors: [{ name: "Mayank" }],
-  metadataBase: new URL("https://stenoxlinks.vercel.app"), // Update this with your actual Vercel URL after deployment
+  metadataBase: new URL("https://stenox-links.vercel.app/"), // Update this with your actual Vercel URL after deployment
   openGraph: {
     title: "StenoxLinks | Premium Custom URL Shortener",
     description: "Transform your long, cumbersome URLs into clean, brandable links instantly.",

@@ -4,7 +4,7 @@ Hey there! 👋 Welcome to **StenoxLinks**.
 
 I built this project because I wanted to move past basic "hello world" tutorials and engineer a full-stack application that actually handles real-world, production-level edge cases. It's a custom URL shortener built on the Next.js 15 App Router and MongoDB, but more importantly, it's designed with the architecture of a scalable SaaS product in mind.
 
-**[🔴 Check out the Live App Here]** *(Insert your Vercel Link)*
+**[🔴 Check out the Live App Here]** *([Insert your Vercel Link](https://stenox-links.vercel.app/))*
 
 ---
 

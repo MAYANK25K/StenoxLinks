@@ -32,7 +32,7 @@ export default function Navbar() {
                         Create Link
                     </Link>
                     <Link 
-                        href="https://github.com" 
+                        href="https://github.com/MAYANK25K" 
                         target="_blank"
                         className="flex items-center gap-2 bg-black hover:bg-gray-800 text-white px-3 py-2 sm:px-4 sm:py-2 rounded-full text-xs sm:text-sm font-medium transition-all"
                     >
